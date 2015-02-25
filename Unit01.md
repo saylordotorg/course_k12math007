@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Number System** <span id="1"></span> 
 *Imagine that you are shopping. There are signs everywhere for different
 sales. You only have a set amount to spend and need to calculate an

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Probability and Statistics** <span id="5"></span> 
 *Imagine that you would like to open a new business, but you need data
 on what the local people would think and whether the business would be

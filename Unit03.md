@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Expressions and Equations** <span id="3"></span> 
 *Imagine you are keeping track of the growth of bacteria in a science
 lab. You would like to make predictions based on the patterns you are

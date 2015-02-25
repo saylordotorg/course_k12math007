@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ratio and Proportional Reasoning** <span id="2"></span> 
 *Imagine you are building a new tree house. The blueprint has the
 design, but on a much smaller scale. You will be able to use

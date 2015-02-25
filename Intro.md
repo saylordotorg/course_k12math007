@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12MATH007: Math Grade 7"
 ----------------------------------------------
 

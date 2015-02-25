@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH007: Math Grade 7"
+course_description: "This course will focus on working with rational numbers, integers, decimals, and fractions, variables, two- and three-dimensional shapes, and mathematical reasoning."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Geometry** <span id="4"></span> 
 *Imagine you work for a packaging company. You need to design a brand
 new package for a new product, but it has to meet certain requirements
