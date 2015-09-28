@@ -178,3 +178,4 @@ covered in this course, along with practice worksheets and solutions.
 - [Unit 3](https://legacy.saylor.org/k12math007/Unit03/)
 - [Unit 4](https://legacy.saylor.org/k12math007/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12math007/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH007/K12MATH007-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH007/K12MATH007-FinalExam-Answers.html)
