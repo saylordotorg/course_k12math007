@@ -62,7 +62,7 @@ section of Unit 2.*
 **2.1.1.1 What Is a Ratio?** <span id="2.1.1.1"></span> 
 -   **Explanation: CK-12: “Ratios”**
     Link:
-    CK-12: [“Ratios”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Ratios.pdf)
+    CK-12: [“Ratios”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Ratios.pdf)
     (PDF)  
         
      Instructions: Watch the first video for an introduction to the idea
@@ -84,7 +84,7 @@ section of Unit 2.*
 **2.1.1.2 Three Ways to Write a Ratio** <span id="2.1.1.2"></span> 
 -   **Explanation: CK-12: “Equivalent Ratios”**
     Link: CK-12: [“Equivalent
-    Ratios”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Equivalent-Ratios.pdf)
+    Ratios”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Equivalent-Ratios.pdf)
     (PDF)  
         
      Instructions: Read through the passage on Casey’s errand. Take note
@@ -108,7 +108,7 @@ section of Unit 2.*
 **2.1.1.3 Reducing a Ratio** <span id="2.1.1.3"></span> 
 -   **Explanation: CK-12: “Ratios in Simplest Form”**
     Link: CK-12: [“Ratios in Simplest
-    Form”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Ratios-in-Simplest-Form.pdf)
+    Form”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Ratios-in-Simplest-Form.pdf)
     (PDF)  
         
      Instructions: Read through the passage to see why simplifying
@@ -133,7 +133,7 @@ section of Unit 2.*
 -   **Explanation: CK-12: “Identification and Writing of Equivalent
     Rates”**
     Link: CK-12: [“Identification and Writing of Equivalent
-    Rates”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Identification-and-Writing-of-Equivalent-Rates.pdf)
+    Rates”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Identification-and-Writing-of-Equivalent-Rates.pdf)
     (PDF)  
         
      Instructions: Read through the passage to see how rates are
@@ -178,7 +178,7 @@ section of Unit 2.*
 **2.1.2.3 Better Buy** <span id="2.1.2.3"></span> 
 -   **Explanation: CK-12: “Comparison of Unit Rates”**
     Link: CK-12: [“Comparison of Unit
-    Rates”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Comparison-of-Unit-Rates-Grade-7.pdf)
+    Rates”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Comparison-of-Unit-Rates-Grade-7.pdf)
     (PDF)  
       
      Instructions: Read through the passage on comparing unit rates to
@@ -208,7 +208,7 @@ be used to make conversions from the models to the real-life object.*
 **2.2.1 How to Write a Proportion** <span id="2.2.1"></span> 
 -   **Explanation: CK-12: “Proportions”**
     Link:
-    CK-12: [“Proportions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Proportions-Grade-7.pdf)
+    CK-12: [“Proportions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Proportions-Grade-7.pdf)
     (PDF)  
         
      Instructions: Read through the passage, which discusses how
@@ -285,7 +285,7 @@ you a chance to work on this skill.*
 **2.2.2.2 Scale Factors** <span id="2.2.2.2"></span> 
 -   **Explanation: CK-12: “Proportions to find Scale Ratios”**
     Link: CK-12: [“Proportions to Find Scale
-    Ratios”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Proportions-to-Find-Scale-Ratios.pdf)
+    Ratios”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Proportions-to-Find-Scale-Ratios.pdf)
     (PDF)  
         
      Instructions: Begin by scrolling down and watching the “Video
@@ -353,7 +353,7 @@ id="2.2.3"></span> 
 id="2.2.3.1"></span> 
 -   **Explanation: CK-12: “Proportions Using Cross Products”**
     Link: CK-12: [“Proportions Using Cross
-    Products”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Proportions-Using-Cross-Products-Grade-.pdf)
+    Products”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Proportions-Using-Cross-Products-Grade-.pdf)
     (PDF)  
         
      Instructions: Read the “Guidance” and “Guided Practice” sections
@@ -424,7 +424,7 @@ id="2.2.4"></span> 
     “Rational Expressions - Proportions”**
     Link: Beginning and Intermediate Algebra: Tyler Wallace’s [“Rational
     Expressions -
-    Proportions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Proportions.pdf) (PDF)  
+    Proportions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Proportions.pdf) (PDF)  
         
      Instructions: Solve word problems \#31 - 40 on page 5 and page 6
     using proportions. The answers can be found on page 7.  
@@ -445,7 +445,7 @@ id="2.2.4"></span> 
 id="2.2.5"></span> 
 -   **Explanation: CK-12: “Problem Solving Plan, Proportions”**
     Link: CK-12: [“Problem Solving Plan,
-    Proportions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Problem-Solving-Plan-Proportions-Grade-7.pdf)
+    Proportions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Problem-Solving-Plan-Proportions-Grade-7.pdf)
     (PDF)  
         
      Instructions: Read the entire passage to see how you can find clues
@@ -491,7 +491,7 @@ id="2.2.5"></span> 
 **2.3 Similar Figures** <span id="2.3"></span> 
 -   **Explanation: CK-12: “Scale Factor of Similar Polygons”**
     Link: CK-12: [“Scale Factor of Similar
-    Polygons”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Scale-Factor-of-Similar-Polygons.pdf)
+    Polygons”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Scale-Factor-of-Similar-Polygons.pdf)
     (PDF)  
         
      Instructions: Read through the “Guidance” and “Guided Practice”
@@ -558,7 +558,7 @@ id="2.2.5"></span> 
 **2.4 Scale Drawings** <span id="2.4"></span> 
 -   **Explanation: CK-12: “Proportions to Find Dimensions”**
     Link: CK-12: [“Proportions to Find
-    Dimensions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Proportions-to-Find-Dimensions.pdf)
+    Dimensions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Proportions-to-Find-Dimensions.pdf)
     (PDF)  
         
      Instructions: Read the information in the “Guidance” and “Guided
@@ -605,7 +605,7 @@ id="2.2.5"></span> 
 -   **Checkpoint: Wikispaces: romanpercentage: “Land Expansion with
     Proportions”**
     Link: Wikispaces: romanpercentage: [“Land Expansion with
-    Proportions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Wikispaces-romanpercentage-Land-Expansion-with-Proportions.pdf)
+    Proportions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Wikispaces-romanpercentage-Land-Expansion-with-Proportions.pdf)
     (PDF)  
         
      Instructions: Use proportions to solve the four problems posed on
@@ -707,7 +707,7 @@ id="2.2.5"></span> 
 
 -   **Checkpoint: EngageNY: “Ratios and Proportional Relationships”**
     Link: EngageNY: [“Ratios and Proportional
-    Relationships”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Ratios-and-Proportion-Relationships.pdf)
+    Relationships”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Ratios-and-Proportion-Relationships.pdf)
     (PDF)  
         
      Instructions: Complete the Mid-Module Assessment on page 93 and the

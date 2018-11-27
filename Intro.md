@@ -8,14 +8,12 @@ previous: ../../../
 Course Syllabus for "K12MATH007: Math Grade 7"
 ----------------------------------------------
 
-**Please note: this [legacy course](https://sayloracademy.zendesk.com/
-hc/en-us/articles/206089967) does not offer a certificate and may contain 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
 broken links and outdated information.** Although archived, it is open 
 for learning without registration or enrollment. Please consider contributing 
 updates to [this course on GitHub](https://github.com/saylordotorg/course_k12math007) 
 (you can also adopt, adapt, and distribute this course under the terms of 
-the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
-licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
 Learn site](https://learn.saylor.org).**
 
 Numbers are everywhere. When we are shopping we are faced with decimals.
@@ -93,7 +91,7 @@ of the following downloads: 
     Calculator (Android)](https://play.google.com/store/apps/details?id=com.algeo.algeo&hl=en)
 
 √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Have completed K12MATH006: Math (Grade 6).
 

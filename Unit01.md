@@ -63,7 +63,7 @@ different applications.*
 
 -   **Explanation: CK-12: Jack Hatert’s “Rational Numbers”**
     Link: CK-12: Jack Hatert’s [“Rational
-    Numbers”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Rational_Numbers.pdf)
+    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Rational_Numbers.pdf)
     (PDF)  
         
      Instructions: Read “Rational Numbers” to learn about the properties
@@ -88,7 +88,7 @@ different applications.*
 **1.1.1.1 Adding Integers** <span id="1.1.1.1"></span> 
 -   **Explanation: CK-12: “Adding Integers”**
     Link: CK-12: [“Adding
-    Integers”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Adding-Integers.pdf)
+    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Adding-Integers.pdf)
     (PDF)  
         
      Instructions: Read “Adding Integers” to learn about using the
@@ -183,7 +183,7 @@ questions.*
 
 -   **Explanation: CK-12: Shannon Newman’s “Subtracting Integers”**
     Link: CK-12: Shannon Newman’s [“Subtracting
-    Integers”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Subtracting-Integers.pdf)
+    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Subtracting-Integers.pdf)
     (PDF)  
         
      Instructions: Read “Subtracting Integers” to learn how adding can
@@ -203,7 +203,7 @@ questions.*
 **1.1.1.3 Multiplying Integers** <span id="1.1.1.3"></span> 
 -   **Explanation: CK-12: “Multiplying Integers”**
     Link: CK-12: [“Multiplying
-    Integers”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Multiplying-Integers.pdf)
+    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Multiplying-Integers.pdf)
     (PDF)  
         
      Instructions: Read “Multiplying Integers” to learn how the signs
@@ -244,7 +244,7 @@ questions.*
 **1.1.1.4 Dividing Integers** <span id="1.1.1.4"></span> 
 -   **Explanation: CK-12: “Dividing Integers”**
     Link: CK-12: [“Dividing
-    Integers”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Dividing-Integers.pdf)
+    Integers”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Dividing-Integers.pdf)
     (PDF)  
         
      Instructions: Read this webpage to learn how dividing integers is
@@ -285,7 +285,7 @@ questions.*
 -   **Explanation: CK-12: “Positive and Negative Fraction and Decimal
     Comparison”**
     Link: CK-12: [“Positive and Negative Fraction and Decimal
-    Comparison”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Positive_and_Negative_Fraction_and_Decimal_Comparison.pdf)
+    Comparison”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Positive_and_Negative_Fraction_and_Decimal_Comparison.pdf)
     (PDF)  
         
      Instructions: Read the article on comparing signed decimals and
@@ -334,7 +334,7 @@ questions.*
     Link: Department of Mathematics, College of the
     Redwoods: *Prealgebra Textbook*, 2nd edition: [“Chapter 5, Section
     5.2: Adding and Subtracting
-    Decimals”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf) (PDF)  
+    Decimals”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf) (PDF)  
         
      Instructions: Review the examples on pages 363 - 364. Then go to
     page 366 and complete odd problems 25 - 43. You can find the answers
@@ -383,7 +383,7 @@ subtract decimals.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 5, Section 5.3:
     Multiplying
-    Decimals”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Decimals”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Scroll down to page 381 and complete odd problems
@@ -411,7 +411,7 @@ subtract decimals.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 5, Section 5.4:
     Dividing
-    Decimals”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Decimals”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Review the examples on page 390. Then go to page 396
@@ -439,7 +439,7 @@ subtract decimals.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 4, Section 4.4: Adding
     and Subtracting
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Review the examples of adding and subtracting
@@ -475,7 +475,7 @@ subtract fractions.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 4, Section 4.5:
     Multiplying and Dividing Mixed
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Review the examples of multiplying and dividing
@@ -509,7 +509,7 @@ to divide fractions.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 4, Section 4.7: Order
     of Operations with Fractions: Complex
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Review pages 315 - 317, which explain the meaning of
@@ -570,7 +570,7 @@ to name a few examples.*
 **1.2.1.1 Percentages between 1 and 100** <span id="1.2.1.1"></span> 
 -   **Explanation: CK-12: “Percents as Decimals”**
     Link: CK-12: [“Percents as
-    Decimals”](http://www.saylor.org/site/wp-content/uploads/2013/09/k12MATH007-Percents-as-Decimals.pdf)
+    Decimals”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/k12MATH007-Percents-as-Decimals.pdf)
     (PDF)  
         
      Instructions: Read “Percents as Decimals” to learn how you can move
@@ -597,7 +597,7 @@ to name a few examples.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 7, Section 7.1:
     Percent, Decimals,
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Scroll down to page 508 and complete odd problems
@@ -622,7 +622,7 @@ to name a few examples.*
 id="1.2.1.2"></span> 
 -   **Explanation: CK-12: “Small and Large Percents as Decimals”**
     Link: CK-12: [“Small and Large Percents as
-    Decimals”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Small_and_Large_Percents_as_Decimals.pdf)
+    Decimals”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Small_and_Large_Percents_as_Decimals.pdf)
     (PDF)  
         
      Instructions: Read “Small and Large Percents as Decimals” to learn
@@ -644,7 +644,7 @@ id="1.2.1.2"></span> 
 **1.2.2 Writing Percentages as Fractions** <span id="1.2.2"></span> 
 -   **Explanation: CK-12: “Percents as Fractions”**
     Link: CK-12: [“Percents as
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Percents_as_Fractions.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Percents_as_Fractions.pdf)
     (PDF)  
         
      Instructions: Read “Percents as Fractions” to learn how using
@@ -670,7 +670,7 @@ id="1.2.1.2"></span> 
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 7, Section 7.1:
     Percent, Decimals,
-    Fractions”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Fractions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Scroll down to pages 508 - 509 and complete odd
@@ -696,7 +696,7 @@ id="1.2.3"></span> 
 -   **Explanation: CK-12: “Conversion of Decimals, Fractions, and
     Percents”**
     Link: CK-12: [“Conversion of Decimals, Fractions, and
-    Percents”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Conversion_of_Decimals_Fractions_and_Percent_Intermediate.pdf)
+    Percents”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Conversion_of_Decimals_Fractions_and_Percent_Intermediate.pdf)
     (PDF)  
         
      Instructions: Watch the first two videos and then read through the
@@ -720,7 +720,7 @@ id="1.2.3"></span> 
 -   **Explanation: CK-12: “Solving Ratio and Percent Problems Using
     Proportional Reasoning”**
     Link: CK-12: [“Solving Ratio and Percent Problems Using Proportional
-    Reasoning”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Solving-Ratio-and-Percent-Problems-Using-Proportional-Relationships.pdf)
+    Reasoning”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Solving-Ratio-and-Percent-Problems-Using-Proportional-Relationships.pdf)
     (PDF)  
         
      Instructions: Read through the different types of word problems
@@ -747,7 +747,7 @@ id="1.2.3"></span> 
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 7, Section 7.3:
     General Applications of
-    Percent”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Percent”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Read page 521 to learn about solving world problems
@@ -771,7 +771,7 @@ id="1.2.3"></span> 
 **1.2.4.1 Sales Tax** <span id="1.2.4.1"></span> 
 -   **Explanation: CK-12: “Prices Involving Sales Tax”**
     Link: CK-12: [“Prices Involving Sales
-    Tax”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Sales-Tax.pdf)
+    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Sales-Tax.pdf)
     (PDF)  
         
      Instructions: Read “Prices Involving Sales Tax” to see how the
@@ -792,7 +792,7 @@ id="1.2.3"></span> 
 
 -   **Explanation: CK-12: “Prices Involving Discounts”**
     Link: CK-12: [“Prices Involving
-    Discounts”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Discounts.pdf)
+    Discounts”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Discounts.pdf)
     (PDF)  
         
      Instructions: Now that you have seen how a price increases with
@@ -815,7 +815,7 @@ id="1.2.3"></span> 
 **1.2.4.2 Gratuities** <span id="1.2.4.2"></span> 
 -   **Explanation: CK-12: “Prices Involving Sales Tax”**
     Link: CK-12: [“Prices Involving Sales
-    Tax”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Sales-Tax-Grade-7.pdf)
+    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prices-Involving-Sales-Tax-Grade-7.pdf)
     (PDF)  
         
      Instructions: Although the title mentions sales tax, the article is
@@ -840,7 +840,7 @@ id="1.2.3"></span> 
 **1.2.4.3 Simple Interest** <span id="1.2.4.3"></span> 
 -   **Explanation: CK-12: “Simple Interest”**
     Link: CK-12: [“Simple
-    Interest”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Simple-Interest-Grade-7.pdf)
+    Interest”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Simple-Interest-Grade-7.pdf)
     (PDF)  
         
      Explanation: As you read through the article on simple interest,
@@ -863,7 +863,7 @@ id="1.2.3"></span> 
 **1.2.4.4 Percentage Increase and Decrease** <span id="1.2.4.4"></span> 
 -   **Explanation: CK-12: “Percent of Increase”**
     Link: CK-12: [“Percent of
-    Increase”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Percent-of-Increase.pdf)
+    Increase”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Percent-of-Increase.pdf)
     (PDF)  
         
      Instructions: This article will show you how to calculate the
@@ -887,7 +887,7 @@ id="1.2.3"></span> 
 
 -   **Explanation: CK-12: “Percent of Decrease”**
     Link: CK-12: [“Percent of
-    Decrease”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Find-the-Percent-of-Decrease.pdf)
+    Decrease”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Find-the-Percent-of-Decrease.pdf)
     (PDF)  
         
      Instructions: As you read through the article on the percentage of
@@ -913,7 +913,7 @@ id="1.2.3"></span> 
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 7, Section 7.4:
     Percent Increase and
-    Decrease”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Decrease”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Use what you have learned in the two previous
@@ -957,7 +957,7 @@ id="1.2.3"></span> 
 
 -   **Checkpoint: Illustrative Mathematics: “Chess Club”**
     Link: Illustrative Mathematics: [“Chess
-    Club”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Chess-Club.pdf)
+    Club”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Chess-Club.pdf)
     (PDF)  
         
      Instructions: Find the overall percentage change for the club. Then
