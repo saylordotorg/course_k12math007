@@ -62,7 +62,7 @@ this subunit, you will learn more about angles and angle relationships.*
 **4.1.1 Angle Relationships** <span id="4.1.1"></span> 
 -   **Explanation: CK-12: “Angle Pairs”**
     Link: CK-12: [“Angle
-    Pairs”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Angle-Pairs-Grade-7.pdf) (PDF)  
+    Pairs”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Angle-Pairs-Grade-7.pdf) (PDF)  
         
      Instructions: Read through the descriptions of the angle pairs. Try
     to use the vocabulary for the different types of angles to name the
@@ -135,7 +135,7 @@ with shapes that were created by combining several polygons together.*
 **4.2.1 Area of Parallelograms** <span id="4.2.1"></span> 
 -   **Explanation: CK-12: “Area of a Parallelogram”**
     Link: CK-12: [“Area of a
-    Parallelogram”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-of-a-Parallelogram-Grade-6.pdf) (PDF)  
+    Parallelogram”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-of-a-Parallelogram-Grade-6.pdf) (PDF)  
         
      Instructions: Read about Jillian and the parallelograms in her
     grandmother’s quilt. Pay special attention to how finding the area
@@ -158,7 +158,7 @@ with shapes that were created by combining several polygons together.*
 -   **Activity: Curriki: “Interactive Practice Problems: Area of
     Parallelograms”**
     Link: Curriki: [“Interactive Practice Problems: Area of
-    Parallelograms”](http://www.saylor.org/site/wp-content/uploads/2013/09/mmgeopp27.swf) (Flash)  
+    Parallelograms”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/mmgeopp27.swf) (Flash)  
         
      Instructions: This is a game. All you need to do is place the
     numerical answer to the area question in the box and hit the next
@@ -203,7 +203,7 @@ with shapes that were created by combining several polygons together.*
 -   **Activity: Curriki: “Interactive Practice Problems: Area of
     Trapezoids”**
     Link: Curriki: [“Interactive Practice Problems: Area of
-    Trapezoids”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Trapezoids.swf) (Flash)  
+    Trapezoids”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Trapezoids.swf) (Flash)  
         
      Instructions: To play this game, you only need to calculate the
     area of a trapezoid and enter in the answer where you see the empty
@@ -225,7 +225,7 @@ with shapes that were created by combining several polygons together.*
 
 -   **Explanation: CK-12: “Area and Perimeter of Trapezoids”**
     Link: CK-12: [“Area and Perimeter of
-    Trapezoids”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-and-Perimeter-of-Trapezoids-Intermediate.pdf) (PDF)  
+    Trapezoids”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-and-Perimeter-of-Trapezoids-Intermediate.pdf) (PDF)  
         
      Instructions: Be sure to watch the informational videos to see how
     to tell which sides are the bases and which side is the height.
@@ -248,7 +248,7 @@ with shapes that were created by combining several polygons together.*
 -   **Activity: Curriki: “Interactive Practice Problems: Area of
     Triangles”**
     Link: Curriki: [“Interactive Practice Problems: Area of
-    Triangles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Trianglesswf.swf) (Flash)  
+    Triangles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Trianglesswf.swf) (Flash)  
         
      Instructions: To play this game, you only need to calculate the
     area of a triangle and enter in the answer where you see the empty
@@ -271,7 +271,7 @@ with shapes that were created by combining several polygons together.*
 
 -   **Explanation: CK-12: “Area and Perimeter of Triangles”**
     Link: CK-12: [“Area and Perimeter of
-    Triangles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-and-Perimeter-of-Triangles.pdf) (PDF)  
+    Triangles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-and-Perimeter-of-Triangles.pdf) (PDF)  
         
      Instructions: Watch the instructional videos. The first video is at
     the top of the page. The second video is listed under Example C. Pay
@@ -295,7 +295,7 @@ with shapes that were created by combining several polygons together.*
 -   **Explanation: CK-12: “Area of Composite Shapes Involving
     Triangles”**
     Link: CK-12: [“Area of Composite Shapes Involving
-    Triangles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-of-Composite-Shapes-Involving-Triangles.pdf) (PDF)  
+    Triangles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-of-Composite-Shapes-Involving-Triangles.pdf) (PDF)  
       
      Instructions: Read the example of finding the area of a home plate.
     Work through the guided examples, and then solve the 15 practice
@@ -317,7 +317,7 @@ with shapes that were created by combining several polygons together.*
 
 -   **Explanation: CK-12: “Area of Composite Shapes”**
     Link: CK-12: [“Area of Composite
-    Shapes”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-of-Composite-Shapes-Intermediate.pdf) (PDF)  
+    Shapes”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-of-Composite-Shapes-Intermediate.pdf) (PDF)  
         
      Instructions: Watch the guided videos on finding the area of shapes
     made up of several polygons and circles. While watching, be sure to
@@ -346,7 +346,7 @@ the radius, diameter, circumference, and area.*
 **4.3.1 Circumference of a Circle** <span id="4.3.1"></span> 
 -   **Explanation: CK-12: “Circle Circumference”**
     Link: CK-12: [“Circle
-    Circumference”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Circle-Circumference.pdf) (PDF)  
+    Circumference”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Circle-Circumference.pdf) (PDF)  
         
      Instructions: Read the example problems in the “Guidance” section
     of the reading. Take note of how the steps change when you have a
@@ -369,7 +369,7 @@ the radius, diameter, circumference, and area.*
     Circumference and Diameter”**
     Link: Curriki: [“Interactive Practice Problems: Equation for
     Circumference and
-    Diameter”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Equation-for-Circumference-and-Diameter.swf) (Flash)  
+    Diameter”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Equation-for-Circumference-and-Diameter.swf) (Flash)  
         
      Instructions: To play this game, you only need to calculate the
     circumference of a circle and enter in the answer where you see the
@@ -393,7 +393,7 @@ the radius, diameter, circumference, and area.*
 -   **Activity: Curriki: “Interactive Practice Problems: Finding
     Diameter”**
     Link: Curriki: [“Interactive Practice Problems: Finding
-    Diameter”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Finding-Diameter.swf) (Flash)  
+    Diameter”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Finding-Diameter.swf) (Flash)  
         
      Instructions: To play this game, you only need to calculate the
     diameter of a circle when given the circumference and enter in the
@@ -417,7 +417,7 @@ the radius, diameter, circumference, and area.*
 -   **Explanation: CK-12: “Diameter or Radius of a Circle Given
     Circumference”**
     Link: CK-12: [“Diameter or Radius of a Circle Given
-    Circumference”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Diameter-or-Radius-of-a-Circle-Given-Circumference.pdf) (PDF)  
+    Circumference”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Diameter-or-Radius-of-a-Circle-Given-Circumference.pdf) (PDF)  
         
      Instructions: Continue the story of Jillian to find out how you can
     work backward to get the radius or diameter when given the
@@ -439,7 +439,7 @@ the radius, diameter, circumference, and area.*
 **4.3.2 Area of a Circle** <span id="4.3.2"></span> 
 -   **Explanation: CK-12: Jack Hatert’s “Area of Circles”**
     Link: CK-12: Jack Hatert’s [“Area of
-    Circles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Area-of-Circles.pdf) (PDF)  
+    Circles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Area-of-Circles.pdf) (PDF)  
         
      Instructions: Read through the examples with Miguel’s story. You
     will want to note the changes in the steps when you have the radius
@@ -464,7 +464,7 @@ the radius, diameter, circumference, and area.*
 -   **Activity: Curriki: “Interactive Practice Problems: Area of
     Circles”**
     Link: Curriki: [“Interactive Practice Problems: Area of
-    Circles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Circles.swf) (Flash)  
+    Circles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Area-of-Circles.swf) (Flash)  
         
      Instructions: To play this game, you only need to calculate the
     area of a circle and enter in the answer where you see the empty
@@ -490,7 +490,7 @@ id="4.3.3"></span> 
 -   **Explanation: CK-12: “Areas of Combined Figures Involving
     Circles”**
     Link: CK-12: [“Areas of Combined Figures Involving
-    Circles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Areas-of-Combined-Figures-Involving-Circles.pdf) (PDF)  
+    Circles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Areas-of-Combined-Figures-Involving-Circles.pdf) (PDF)  
         
      Instructions: Read through the examples to see how to work with the
     area of half a circle. Then solve the 15 practice problems at the
@@ -565,7 +565,7 @@ id="4.4.2"></span> 
 
 -   **Explanation: CK-12: “Cross-Sections and Nets”**
     Link: CK-12: [“Cross-Sections and
-    Nets”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Cross-Sections-and-Nets.pdf) (PDF)  
+    Nets”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Cross-Sections-and-Nets.pdf) (PDF)  
         
      Instructions: Read through the passage to find out what a cross
     section and a net of a three-dimensional shape look like. Then name
@@ -614,7 +614,7 @@ discovery of surface area with prisms.*
 **4.5.1 Surface Area of a Rectangular Prism** <span id="4.5.1"></span> 
 -   **Explanation: CK-12: “Surface Area of Rectangular Prisms”**
     Link: CK-12: [“Surface Area of Rectangular
-    Prisms”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Surface-Area-of-Rectangular-Prisms.pdf) (PDF)  
+    Prisms”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Surface-Area-of-Rectangular-Prisms.pdf) (PDF)  
         
      Instructions: Read through the examples of how to calculate the
     surface area of a rectangular prism. While reading, determine how
@@ -636,7 +636,7 @@ discovery of surface area with prisms.*
 **4.5.2 Surface Area of a Triangular Prism** <span id="4.5.2"></span> 
 -   **Explanation: CK-12: “Surface Area of Triangular Prisms”**
     Link: CK-12: [“Surface Area of Triangular
-    Prisms”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Surface-Area-of-Triangular-Prisms.pdf) (PDF)  
+    Prisms”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Surface-Area-of-Triangular-Prisms.pdf) (PDF)  
         
      Instructions: Read through the passage to see how a formula can be
     used to solve for the surface area of a triangular prism. While
@@ -708,7 +708,7 @@ this subunit, you will start your discovery of volume through prisms.*
 -   **Activity: Curriki: “Interactive Practice Problems: Volume of a
     Box”**
     Link: Curriki: [“Interactive Practice Problems: Volume of a
-    Box”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Volume-of-a-Box.swf) (Flash)  
+    Box”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interactive-Practice-Problems-Volume-of-a-Box.swf) (Flash)  
         
      Instructions: Use either V = lwh or V = Bh to solve the problems.
     Place the answer in the box and press the “next” button to see if
@@ -729,7 +729,7 @@ this subunit, you will start your discovery of volume through prisms.*
 **4.6.2 Volume of a Triangular Prism** <span id="4.6.2"></span> 
 -   **Explanation: CK-12: “Volume of Triangular Prisms”**
     Link: CK-12: [“Volume of Triangular
-    Prisms”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Volume-of-Triangular-Prisms.pdf) (PDF)  
+    Prisms”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Volume-of-Triangular-Prisms.pdf) (PDF)  
         
      Instructions: Read the description of how to calculate the volume
     of a triangular prism. Take note of how the steps are similar to the
@@ -758,7 +758,7 @@ geometric properties that form different polygons, angles, and lines.*
 **4.7.1 Creating Congruent Lines and Angles** <span id="4.7.1"></span> 
 -   **Explanation: CK-12: “Constructions and Copying a Line Segment”**
     Link: CK-12: [“Constructions and Copying a Line
-    Segment”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Constructions-and-Copying-a-Line-Segment.pdf) (PDF)  
+    Segment”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Constructions-and-Copying-a-Line-Segment.pdf) (PDF)  
         
      Instructions: You will need a compass to complete this section.
     Read through the example of how to use a compass to make a line that
@@ -822,7 +822,7 @@ geometric properties that form different polygons, angles, and lines.*
 -   **Explanation: *Utah Electronic High School*: “Constructing a Right
     Isosceles Triangle”**
     Link: Utah Electronic High School: [“Constructing a Right Isosceles
-    Triangle”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-Constructing-a-Right-Isosceles-Triangle.pdf) (PDF)  
+    Triangle”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Constructing-a-Right-Isosceles-Triangle.pdf) (PDF)  
         
      Instructions: While reading through the instructions, use a compass
     and piece of paper to create your own isosceles triangles. Then try
@@ -866,7 +866,7 @@ geometric properties that form different polygons, angles, and lines.*
 -   **Explanation: *Utah Electronic High School*: “Constructing Squares
     and Rectangles”**
     Link: *Utah Electronic High School*: [“Constructing Squares and
-    Rectangles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007Constructing-Squares-and-Rectangles.pdf) (HTML)  
+    Rectangles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007Constructing-Squares-and-Rectangles.pdf) (HTML)  
         
      Instructions: While reading through the instructions, please use a
     compass and piece of paper to create your own squares. Then try to
@@ -886,7 +886,7 @@ geometric properties that form different polygons, angles, and lines.*
 
 -   **Checkpoint: Illustrative Mathematics: “Eight Circles”**
     Link: Illustrative Mathematics: [“Eight
-    Circles”](http://www.saylor.org/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Eight-Circles.pdf) (PDF)  
+    Circles”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Eight-Circles.pdf) (PDF)  
         
      Instructions: Determine the area of the entire object and the area
     of the shaded region. Then scroll to page 2 to check your work.  
