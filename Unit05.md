@@ -146,7 +146,7 @@ other events.*
 **5.1.2 Compound Events** <span id="5.1.2"></span> 
 -   **Explanation: CK-12: “Probability of Compound Events”**
     Link: CK-12: [“Probability of Compound
-    Events”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Probability-of-Compound-Events.pdf)
+    Events”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Probability-of-Compound-Events.pdf)
     (PDF)  
         
      Instructions: Read the section entitled “Guidance” to find the
@@ -372,7 +372,7 @@ can represent the population and help make informed decisions.*
 
 -   **Explanation: CK-12: “Random and Biased Sampling in a Population”**
     Link: CK-12: [“Random and Biased Sampling in a
-    Population”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Random-and-Biased-Sampling-in-a-Population-7.pdf)
+    Population”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Random-and-Biased-Sampling-in-a-Population-7.pdf)
     (PDF)  
         
      Instructions: Read the entire article on sampling. While reading,
@@ -401,7 +401,7 @@ can represent the population and help make informed decisions.*
 
 -   **Explanation: CK-12: “Surveys and Samples”**
     Link: CK-12: [“Surveys and
-    Samples”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Surveys-and-Samples.pdf) (PDF)  
+    Samples”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Surveys-and-Samples.pdf) (PDF)  
         
      Instructions: Complete the entire lesson by reading the
     information, watching the 12-minute video, and solving the practice
@@ -502,7 +502,7 @@ Then it continues on to discuss multiple sets of data.*
 **5.3.2 Box and Whisker Plots** <span id="5.3.2"></span> 
 -   **Explanation: CK-12: “Box-and-Whisker Plots”**
     Link: CK-12: [“Box-and-Whisker
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Box-and-Whisker-Plots-of-Data-and-Statistics.pdf) (PDF)  
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Box-and-Whisker-Plots-of-Data-and-Statistics.pdf) (PDF)  
         
      Instructions: Read the lesson on creating a box-and-whisker plot
     until you reach the videos from Khan Academy. While reading, take
@@ -527,7 +527,7 @@ Then it continues on to discuss multiple sets of data.*
 **5.3.3 Stem and Leaf Plots** <span id="5.3.3"></span> 
 -   **Explanation: CK-12: “Stem-and-Leaf Plots”**
     Link: CK-12: [“Stem-and-Leaf
-    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Stem-and-Leaf-Plots-of-Data-and-Statistics.pdf) (PDF)  
+    Plots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Stem-and-Leaf-Plots-of-Data-and-Statistics.pdf) (PDF)  
         
      Instructions: Start by reading the example of using data from the
     Iditarod in Alaska. Continue reading until you reach the videos.
@@ -563,7 +563,7 @@ Then it continues on to discuss multiple sets of data.*
     Central Tendency, and Interquartile Range”**
     Link: CK-12: [“Data Analysis Using Dot Plots, Measures of Central
     Tendency, and Interquartile
-    Range”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Data-Analysis-Using-Dot-Plots-Measures-of-Central-Tendency-and-Interquartile-Range-7.pdf) (PDF)  
+    Range”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Data-Analysis-Using-Dot-Plots-Measures-of-Central-Tendency-and-Interquartile-Range-7.pdf) (PDF)  
         
      Instructions: Read through the lesson, taking note of how measures
     of center (mean, median, mode) and measures of variability (MAD,
@@ -629,7 +629,7 @@ Then it continues on to discuss multiple sets of data.*
 
 -   **Checkpoint: Illustrative Mathematics: “College Athletes”**
     Link: Illustrative Mathematics: [“College
-    Athletes”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-College-Athletes.pdf) (PDF)  
+    Athletes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-College-Athletes.pdf) (PDF)  
         
      Instructions: Complete parts a though e. You may use a calculator
     when completing this checkpoint. Then check your work on page 3.  
@@ -651,7 +651,7 @@ Then it continues on to discuss multiple sets of data.*
 
 -   **Checkpoint: Illustrative Mathematics: “Waiting Times”**
     Link: Illustrative Mathematics: [“Waiting
-    Times”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Waiting-Times.pdf) (PDF)  
+    Times”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Waiting-Times.pdf) (PDF)  
         
      Instructions: Determine the number of boxes of cereal that would
     need to be purchased in parts A and B. Then scroll to page 2 to

@@ -64,7 +64,7 @@ numbers, variables, and symbols. *
     Education: “Serving Up Symbols: A Develop Understanding Task”**
     Link: Mathematic Vision Project and Utah State Office of Education:
     [“Serving Up Symbols: A Develop Understanding
-    Task”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Serving-Up-Symbols-A-Develop-Understanding-Task.pdf)
+    Task”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Serving-Up-Symbols-A-Develop-Understanding-Task.pdf)
     (PDF)  
         
      Instructions: Complete this activity using the items and variables
@@ -87,7 +87,7 @@ numbers, variables, and symbols. *
 
 -   **Explanation: CK-12: “Writing Expressions and Equations”**
     Link: CK-12: [“Writing Expressions and
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Writing-Expressions-and-Equations-of-Equations-Inequalities-and-Functions.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Writing-Expressions-and-Equations-of-Equations-Inequalities-and-Functions.pdf)
     (PDF)  
         
      Instructions: Read the lesson up to the “Time to Practice” section.
@@ -126,7 +126,7 @@ more information.*
 -   **Explanation: CK-12: “Simplify Variable Expressions Involving
     Multiple Operations”**
     Link: CK-12: [“Simplify Variable Expressions Involving Multiple
-    Operations”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Simplify-Variable-Expressions-Involving-Multiple-Operations.pdf)
+    Operations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Simplify-Variable-Expressions-Involving-Multiple-Operations.pdf)
     (PDF)  
         
      Instructions: Read through the examples to find out what is meant
@@ -150,7 +150,7 @@ more information.*
 -   **Explanation: CK-12: “Simplify Products or Quotients of Single
     Variable Expressions”**
     Link: CK-12: [“Simplify Products or Quotients of Single Variable
-    Expressions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Simplify-Products-or-Quotients-of-Single-Variable-Expressions.pdf)
+    Expressions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Simplify-Products-or-Quotients-of-Single-Variable-Expressions.pdf)
     (PDF)  
         
      Instructions: Read through the passage to see how simplifying
@@ -197,7 +197,7 @@ and formulas and seeing how the value changes as the variables change.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 3, Section 2:
     Evaluating Algebraic
-    Expressions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf) (PDF)  
+    Expressions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf) (PDF)  
         
      Instructions: Read through the examples on pages 179 - 182,
     beginning with example 1. Focus on the red sections that share the
@@ -221,7 +221,7 @@ and formulas and seeing how the value changes as the variables change.*
 -   **Activity: Space Math @ NASA: “Kelvin Temperatures and Very Cold
     Things!”**
     Link: Space Math @ NASA: [“Kelvin Temperatures and Very Cold
-    Things!”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Kelvin-Temperatures-and-Very-Cold-Things.pdf)
+    Things!”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Kelvin-Temperatures-and-Very-Cold-Things.pdf)
     (PDF)  
         
      Instructions: Learn about how the Kelvin temperature relates to
@@ -299,7 +299,7 @@ like terms and the distributive property.*
 **3.4.2 Multistep Equations** <span id="3.4.2"></span> 
 -   **Explanation: CK-12: Barbara Greer's “Two-Step Equations”**
     Link: CK-12: Barbara Greer's [“Two-Step
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Two-Step-Equations.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Two-Step-Equations.pdf)
     (PDF)  
         
      Instructions: Read the examples of how to change equations into
@@ -327,7 +327,7 @@ like terms and the distributive property.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 4, Section 8: Solving
     Equations with Fractions -
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Scroll down to page 337 and complete odd problems
@@ -354,7 +354,7 @@ like terms and the distributive property.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 3, Section 5: Solving
     Equations Involving Integers II -
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)(PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)(PDF)  
         
      Instructions: Scroll down to page 213 and complete odd problems
     17 - 51. Be sure to show an algebraic check as well. You can find
@@ -382,7 +382,7 @@ like terms and the distributive property.*
     Link: Department of Mathematics, College of the Redwoods:
     *Prealgebra Textbook*, 2nd edition: [“Chapter 5, Section 6:
     Equations with Decimals -
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Prealgebra-Textbook-2nd-edition.pdf)
     (PDF)  
         
      Instructions: Scroll down to page 421, and complete and check
@@ -414,7 +414,7 @@ solving any type of equation involving one variable.*
 -   **Explanation: Cheryl Wilcox’s “Perimeter Problems with Related
     Variables”**
     Link: Cheryl Wilcox’s [“Perimeter Problems with Related
-    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Perimeter-Problems-with-Related-Variables.pdf)
+    Variables”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Perimeter-Problems-with-Related-Variables.pdf)
     (PDF)  
       
      Instructions: Read this lesson to discover how the perimeter
@@ -461,7 +461,7 @@ solving any type of equation involving one variable.*
 
 -   **Explanation: CK-12: SCC Mathematics: “Writing Equations”**
     Link: CK-12: SCC Mathematics: [“Writing
-    Equations”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Writing-Equations.pdf)
+    Equations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Writing-Equations.pdf)
     (PDF)  
         
      Instructions: In this section, you will write equations and define
@@ -488,7 +488,7 @@ solving any type of equation involving one variable.*
 
 -   **Explanation: CK-12: “Interpreting Word Problems”**
     Link: CK-12: [“Interpreting Word
-    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Interpreting-Word-Problems-of-Equations-and-Inequalities.pdf)
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Interpreting-Word-Problems-of-Equations-and-Inequalities.pdf)
     (PDF)  
         
      Instructions: Skip the “Unit Conversion” section at the beginning
@@ -515,7 +515,7 @@ solving any type of equation involving one variable.*
 -   **Explanation: Cheryl Wilcox’s “Writing Equations for Word
     Problems”**
     Link: Cheryl Wilcox’s [“Writing Equations for Word
-    Problems”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Writing-Equations-for-Word-Problems.pdf)
+    Problems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Writing-Equations-for-Word-Problems.pdf)
     (PDF)  
         
      Instructions: Read this lesson to see how the way you solve
@@ -551,7 +551,7 @@ id="3.6.1"></span> 
     Inequalities and Interval Notation”**
     Link: OpenAlgebra.com: James Moore’s [“Introduction to Inequalities
     and Interval
-    Notation”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Introduction-to-Inequalities-and-Interval-Notation.pdf)
+    Notation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Introduction-to-Inequalities-and-Interval-Notation.pdf)
     (PDF)  
         
      Instructions: Explore the examples in the reading to see how
@@ -575,7 +575,7 @@ id="3.6.1"></span> 
 
 -   **Explanation: CK-12: “Inequality Expressions”**
     Link: CK-12: [“Inequality
-    Expressions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Inequality-Expressions.pdf)
+    Expressions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Inequality-Expressions.pdf)
     (PDF)  
         
      Instructions: This reading will introduce you to the notation and
@@ -619,7 +619,7 @@ id="3.6.1"></span> 
 **3.6.1.1 Less Than or Greater Than** <span id="3.6.1.1"></span> 
 -   **Activity: CK-12: “Inequalities”**
     Link:
-    CK-12: [“Inequalities”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Inequalities.pdf)
+    CK-12: [“Inequalities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Inequalities.pdf)
     (PDF)  
         
      Instructions: This is a series of practice problems for working
@@ -642,7 +642,7 @@ id="3.6.1"></span> 
 
 -   **Explanation: CK-12: “Inequalities on a Number Line”**
     Link CK-12: [“Inequalities on a Number
-    Line”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Inequalities-on-a-Number-Line.pdf) (PDF)  
+    Line”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Inequalities-on-a-Number-Line.pdf) (PDF)  
         
      Instructions: After reading the lesson, write in complete sentences
     why you might need to graph the solution to an inequality. Then
@@ -675,7 +675,7 @@ included.*
 **3.6.2 Solving Inequalities** <span id="3.6.2"></span> 
 -   **Explanation: CK-12: Jack Hatert’s “Solving Inequalities”**
     Link: CK-12: Jack Hatert’s [“Solving
-    Inequalities”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-Solving-Inequalities.pdf)
+    Inequalities”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-Solving-Inequalities.pdf)
     (PDF)  
         
      Instructions: Read through the examples to see how solving
@@ -702,7 +702,7 @@ included.*
 
 -   **Checkpoint: Illustrative Mathematics: “Writing Expressions”**
     Link: Illustrative Mathematics: [“Writing
-    Expressions”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Writing-Expressions.pdf)
+    Expressions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Writing-Expressions.pdf)
     (PDF)  
         
      Instructions: Write an expression to represent the descriptions for
@@ -724,7 +724,7 @@ included.*
 
 -   **Checkpoint: Illustrative Mathematics: “Guess My Number”**
     Link: Illustrative Mathematics: [“Guess My
-    Number”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Guess-My-Number.pdf)
+    Number”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/K12MATH007-illustrative_mathematics-Guess-My-Number.pdf)
     (PDF)  
         
      Instructions: Write your solutions for parts a, b, and c. Then
